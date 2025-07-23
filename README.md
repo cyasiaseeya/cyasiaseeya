@@ -9,7 +9,7 @@ I spend most of my time:
 
 ---
 
-📝 Writing things over at [bitsandbeing](https://bitsandbeing.github.io)  
+📝 Writing things over at [bitsandbeing](https://bitsandbeing.tistory)  
 :- A blog about code, identity, learning, and life as a professional imposter™
 
 ---
