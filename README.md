@@ -22,8 +22,8 @@ I spend most of my time:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyasiaseeya)
 [![Email](https://img.shields.io/badge/email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:cyasiaseeya@email.com)
-[![Blog](https://img.shields.io/badge/blog-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://bitsandbeing.tistory.com)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://instagram.com/cyasiaseeya)
+[![Blog](https://img.shields.io/badge/blog-%2312100E.svg?&style=flat&logo=github&logoColor=white)](https://blog.naver.com/cyasiaseeya)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white)](https://instagram.com/carbonbasedanomaly)
 [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@cyasiaseeya)
 
 ---
